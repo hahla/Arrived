@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="answer_question_view" parent="arrivedThemeV3">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:textSize">24dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:drawableLeft">@mipmap/ic_action_name</item>
+        <item name="android:background">@drawable/page_question_bar</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+</resources>

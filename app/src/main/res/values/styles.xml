@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="arrivedThemeV3" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimaryDark">@android:color/white</item>
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_input_method_navigation_guard</item>
+        <item name="android:textColorSecondary">@color/background</item>
+
+    </style>
+
+</resources>

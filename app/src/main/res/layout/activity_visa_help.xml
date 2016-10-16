@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="us.arrived.arrived.VisaHelp">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="100dp">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <Button
+                android:id="@+id/firstVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:text="@string/visaHelpQuestion1"
+                />
+            <TextView
+                android:id="@+id/firstVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/firstVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer1"
+                />
+
+            <Button
+                android:id="@+id/secondVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/firstVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion2"
+                />
+            <TextView
+                android:id="@+id/secondVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/secondVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer2"
+                />
+
+            <Button
+                android:id="@+id/thirdVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/secondVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion3"
+                />
+            <TextView
+                android:id="@+id/thirdVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/thirdVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer3"
+                />
+
+            <Button
+                android:id="@+id/fourthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/thirdVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion4"
+                />
+            <TextView
+                android:id="@+id/fourthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fourthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer4"
+                />
+
+            <Button
+                android:id="@+id/fifthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/fourthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion5"
+                />
+            <TextView
+                android:id="@+id/fifthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fifthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer5"
+                />
+
+            <Button
+                android:id="@+id/sixthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/fifthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion6"
+                />
+            <TextView
+                android:id="@+id/sixthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/sixthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer6"
+                />
+
+            <Button
+                android:id="@+id/seventhVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/sixthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion7"
+                />
+            <TextView
+                android:id="@+id/seventhVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/seventhVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer7"
+                />
+
+            <Button
+                android:id="@+id/eighthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/seventhVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion8"
+                />
+            <TextView
+                android:id="@+id/eighthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/eighthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer8"
+                />
+
+            <Button
+                android:id="@+id/ninthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/eighthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion9"
+                />
+            <TextView
+                android:id="@+id/ninthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/ninthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer9"
+                />
+
+            <Button
+                android:id="@+id/tenthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/ninthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion10"
+                />
+            <TextView
+                android:id="@+id/tenthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/tenthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer10"
+                />
+
+            <Button
+                android:id="@+id/eleventhVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/tenthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion11"
+                />
+            <TextView
+                android:id="@+id/eleventhVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/eleventhVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer11"
+                />
+
+            <Button
+                android:id="@+id/twelfthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/eleventhVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion12"
+                />
+            <TextView
+                android:id="@+id/twelfthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/twelfthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer12"
+                />
+
+            <Button
+                android:id="@+id/thirteenthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/twelfthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion13"
+                />
+            <TextView
+                android:id="@+id/thirteenthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/thirteenthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer13"
+                />
+
+            <Button
+                android:id="@+id/fourteenthVisaHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/thirteenthVisaHelpAnswer"
+                android:text="@string/visaHelpQuestion14"
+                />
+            <TextView
+                android:id="@+id/fourteenthVisaHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fourteenthVisaHelpQuestion"
+                android:text="@string/visaHelpAnswer14"
+                />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/black"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/facebook_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/fb_logo"
+            android:drawableStart="@mipmap/fb_logo"
+            />
+
+        <!-- TO DO: Figure out how to display the copyright notice. Not a huge deal.
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/copyright_notice"
+                        android:text="@string/copyright"
+                        android:textSize="8sp"
+                        android:textColor="#FFFFFF"
+                        android:clickable="false"
+                        android:layout_centerInParent="true"
+                        android:layout_below="@+id/arrived_button"
+                        /> -->
+
+        <Button
+            android:id="@+id/arrived_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/arrived_footer_logo"
+            android:drawableStart="@mipmap/arrived_footer_logo"
+            />
+
+
+        <Button
+            android:id="@+id/twitter_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/twitter_logo"
+            android:drawableStart="@mipmap/twitter_logo"
+            />
+    </RelativeLayout>
+</RelativeLayout>

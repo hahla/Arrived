@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="us.arrived.arrived.financialAdvice">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <Button
+                android:id="@+id/firstFinancialAdviceQuestion"
+                style="@style/answer_question_view"
+                android:text="@string/financialQuestion1"
+                />
+            <TextView
+                android:id="@+id/firstFinancialAdviceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/firstFinancialAdviceQuestion"
+                android:text="@string/financialAnswer1"
+                />
+
+            <Button
+                android:id="@+id/secondFinancialAdviceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/firstFinancialAdviceAnswer"
+                android:text="@string/financialQuestion2"
+                />
+            <TextView
+                android:id="@+id/secondFinancialAdviceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/secondFinancialAdviceQuestion"
+                android:text="@string/financialAnswer2"
+                />
+
+            <Button
+                android:id="@+id/thirdFinancialAdviceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/secondFinancialAdviceAnswer"
+                android:text="@string/financialQuestion3"
+                />
+            <TextView
+                android:id="@+id/thirdFinancialAdviceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/thirdFinancialAdviceQuestion"
+                android:text="@string/financialAnswer3"
+                />
+
+            <Button
+                android:id="@+id/fourthFinancialAdviceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/thirdFinancialAdviceAnswer"
+                android:text="@string/financialQuestion4"
+                />
+            <TextView
+                android:id="@+id/fourthFinancialAdviceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fourthFinancialAdviceQuestion"
+                android:text="@string/financialAnswer4"
+                />
+
+            <Button
+                android:id="@+id/fifthFinancialAdviceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/fourthFinancialAdviceAnswer"
+                android:text="@string/financialQuestion5"
+                />
+            <TextView
+                android:id="@+id/fifthFinancialAdviceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fifthFinancialAdviceQuestion"
+                android:text="@string/financialAnswer5"
+                />
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/footer"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:background="@color/black"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/facebook_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/fb_logo"
+            android:drawableLeft="@mipmap/fb_logo"
+            android:layout_alignParentLeft="true"
+            android:background="@color/black"
+            />
+
+        <!-- TO DO: Figure out how to display the copyright notice. Not a huge deal.
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/copyright_notice"
+                        android:text="@string/copyright"
+                        android:textSize="8sp"
+                        android:textColor="#FFFFFF"
+                        android:clickable="false"
+                        android:layout_centerInParent="true"
+                        android:layout_below="@+id/arrived_button"
+                        /> -->
+
+        <Button
+            android:id="@+id/arrived_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/arrived_footer_logo"
+            android:drawableLeft="@mipmap/arrived_footer_logo"
+            android:background="@color/black"
+            android:layout_centerInParent="true"
+            />
+
+
+        <Button
+            android:id="@+id/twitter_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/twitter_logo"
+            android:drawableLeft="@mipmap/twitter_logo"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

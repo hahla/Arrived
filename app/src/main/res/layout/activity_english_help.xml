@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+
+    tools:context="us.arrived.arrived.EnglishHelp">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <Button
+                android:id="@+id/firstEnglishHelpQuestion"
+                style="@style/answer_question_view"
+                android:text="@string/englishHelpQuestion1"
+                />
+            <TextView
+                android:id="@+id/firstEnglishHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/firstEnglishHelpQuestion"
+                android:text="@string/englishHelpAnswer1"
+                />
+
+            <Button
+                android:id="@+id/secondEnglishHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/firstEnglishHelpAnswer"
+                android:text="@string/englishHelpQuestion2"
+                />
+            <TextView
+                android:id="@+id/secondEnglishHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/secondEnglishHelpQuestion"
+                android:text="@string/englishHelpAnswer2"
+                />
+
+            <Button
+                android:id="@+id/thirdEnglishHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/secondEnglishHelpAnswer"
+                android:text="@string/englishHelpQuestion3"
+                />
+            <TextView
+                android:id="@+id/thirdEnglishHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/thirdEnglishHelpQuestion"
+                android:text="@string/englishHelpAnswer3"
+                />
+
+
+            <Button
+                android:id="@+id/fourthEnglishHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/thirdEnglishHelpAnswer"
+                android:text="@string/englishHelpQuestion4"
+                />
+            <TextView
+                android:id="@+id/fourthEnglishHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fourthEnglishHelpQuestion"
+                android:text="@string/englishHelpAnswer4"
+                />
+
+            <Button
+                android:id="@+id/fifthEnglishHelpQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/fourthEnglishHelpAnswer"
+                android:text="@string/englishHelpQuestion5"
+                />
+            <TextView
+                android:id="@+id/fifthEnglishHelpAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fifthEnglishHelpQuestion"
+                android:text="@string/englishHelpAnswer5"
+                />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/footer"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:background="@color/black"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/facebook_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/fb_logo"
+            android:drawableLeft="@mipmap/fb_logo"
+            android:layout_alignParentLeft="true"
+            android:background="@color/black"
+            />
+
+        <!-- TO DO: Figure out how to display the copyright notice. Not a huge deal.
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/copyright_notice"
+                        android:text="@string/copyright"
+                        android:textSize="8sp"
+                        android:textColor="#FFFFFF"
+                        android:clickable="false"
+                        android:layout_centerInParent="true"
+                        android:layout_below="@+id/arrived_button"
+                        /> -->
+
+        <Button
+            android:id="@+id/arrived_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/arrived_footer_logo"
+            android:drawableLeft="@mipmap/arrived_footer_logo"
+            android:background="@color/black"
+            android:layout_centerInParent="true"
+            />
+
+
+        <Button
+            android:id="@+id/twitter_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/twitter_logo"
+            android:drawableLeft="@mipmap/twitter_logo"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            />
+    </RelativeLayout>
+</RelativeLayout>

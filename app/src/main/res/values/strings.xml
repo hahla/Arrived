@@ -1,0 +1,330 @@
+<resources>
+    <string name="app_name">Arrived</string>
+    <string name="AboutUs">Arrived is a William McLaughlin project.
+        \n\nFor more information, including ways to contact us to provide feedback, you can visit <a href="http://www.arrived.us">our website</a>.
+        \n\n\"When we arrive, sons and daughters, we\'ll make our homes on the water...\"</string>
+    <string name="copyright" translatable="false">© 2016</string>
+    <string name="learnButton">Learn</string>
+    <string name="seeButton">See</string>
+    <string name="sharing_header">You can share answers with others!</string>
+    <string name="sharing_text_message">Hey! Arrived has helped me and I would like you to use it, too. www.arrived.us</string>
+    <string name="homepageMenu1">Getting Started</string>
+    <string name="homepageMenu2">Visa Help</string>
+    <string name="homepageMenu3">Housing</string>
+    <string name="homepageMenu4">Job Assistance</string>
+    <string name="homepageMenu5">Legal Help</string>
+    <string name="homepageMenu6">Deportation Help</string>
+    <string name="homepageMenu7">Education</string>
+    <string name="homepageMenu8">Support Groups</string>
+    <string name="homepageMenu9">FAQ</string>
+    <string name="homepageMenu10">About Us</string>
+    <string name="homepageMenu11">Disclaimer</string>
+    <string name="gettingStarted">First of all, thank you for installing Arrived.
+        \n\nThis app helps you make your home in the US no matter where you are from or how you arrived. In the app, you will find info, advice, and commentary about the US immigration process. You can find housing tips, common legal questions, and even links to English language lessons.
+        \n\nNo matter how you arrived in the US, we want to make sure you can make a smooth transition. We hope this app comes in handy—we’ve had fun making it and we hope you have fun using it!
+        \n\nLastly, if you’d like to request new features, provide helpful information, or share your story, we’d love to hear from you. You can see all the ways to contact us <a href="http://www.arrived.us/contact.html">here</a>.
+    </string>
+    <string name="visaHelpQuestion1">What is a visa?</string>
+    <string name="visaHelpAnswer1">
+        A visa is a document that lets you travel to, live in, or work in a country. In the US, there are two types of visas—immigrant and non-immigrant—that serve different purposes.        \nThe Department of State is responsible for deciding who receives visas. You can apply for both types of visas at US embassies around the world.\n
+        &#8226;Immigrant Visas: People wishing to immigrate to the United States.\n
+        &#8226;Non-Immigrant visas: People wishing to visit for business or tourism, study at a school or university, or receive medical treatment in the US.
+    </string>
+    <string name="visaHelpQuestion2">Do I need a visa?</string>
+    <string name="visaHelpAnswer2">
+        US law requires you to have some form of documentation if you are in the country. If you do not have a visa or if you have overstayed your visa, you are considered an illegal alien. Illegal aliens cannot vote, receive benefits, or hold American passports. If you are an illegal alien, however, and you do not commit a crime, authorities will not know you are here illegally.
+    </string>
+    <string name="visaHelpQuestion3">What are the penalties for overstaying a visa or entering the country illegally?</string>
+    <string name="visaHelpAnswer3">
+        If you enter the US without passing through a border control post or if you provide false documents, you can face six months to two years in prison. If you are caught while crossing the border, you may go to an immigration detention center. You will then face an Immigration Court that will decide whether to deport you. If you are deported, it may hurt your chances of receiving a visa in the future.
+    </string>
+    <string name="visaHelpQuestion4">How can I receive a green card?</string>
+    <string name="visaHelpAnswer4">
+        You must be here legally to receive a green card. If you are here illegally, that means you must secure a visa through your family, employer, military service, or university. Once you have a visa, you may begin the green card application process. It is difficult if not impossible to obtain a green card without legal status.
+    </string>
+    <string name="visaHelpQuestion5">How can I secure a green card through my family?</string>
+    <string name="visaHelpAnswer5">
+        If you have an American relative, you may be able to receive a visa. If you have an immediate relative in the US, you can apply for a visa and receive special priority. In particular, spouses of permanent residents, unmarried children under the age of 21, and parents of the permanent resident may “skip the line” for a visa.
+    </string>
+    <string name="visaHelpQuestion6">How can I receive a green card through marriage?</string>
+    <string name="visaHelpAnswer6">
+        If your spouse is an American, he or she can file for you to receive a green card and you will receive the visa immediately if you are eligible. You must marry within 90 days of entering the US and you and your fiancé are both eligible to marry each other.
+    </string>
+    <string name="visaHelpQuestion7">How can I receive a visa through my employer?</string>
+    <string name="visaHelpAnswer7">
+        If an employer has a high-skilled job that the US government decides it cannot fill with American workers, it may allow the employer to sponsor your visa. These high-skilled jobs must not displace an American worker, and the number of slots is capped.
+    </string>
+    <string name="visaHelpQuestion8">How can I receive a visa through my school?</string>
+    <string name="visaHelpAnswer8">
+        There are two types of visas for students: F-1 and M-1. You must be enrolled full-time in a language, vocational, or educational program approved by the USCIS. Importantly, you must be able to support yourself and intend to return home after your studies end.
+    </string>
+    <string name="visaHelpQuestion9">How can I receive a visa for military service?</string>
+    <string name="visaHelpAnswer9">
+        Those who honorably serve in the US Armed Services can apply for citizenship provided that they are at least 18 years old; can read, write, and speak English; and have lived in the US for five years and in the US for at least 30 months out of the past five years before the time of the application.
+    </string>
+    <string name="visaHelpQuestion10">How can I apply for refugee status?</string>
+    <string name="visaHelpAnswer10">
+        If you are admitted to the US as a refugee or asylum seeker, you can apply for refugee status one year after arrival.
+    </string>
+    <string name="visaHelpQuestion11">How can I become a US citizen?</string>
+    <string name="visaHelpAnswer11">
+        The process of becoming a citizen is called naturalization.
+        \nFive years after arrival, if you demonstrate knowledge of the English language and US history and government, you can obtain citizenship. If you marry an American, this waiting period is shortened to three years as long as you have been married for three years.
+        \nThe advantages of citizenship over permanent residency include assisting relatives immigrate to the US and voting in elections.
+    </string>
+    <string name="visaHelpQuestion12">How can I avoid visa scams?</string>
+    <string name="visaHelpAnswer12">
+        \n1)	Ask questions
+        \n2)	Ask for documentation showing the person is licensed or bonded
+        \n3)	Demand a written contract for immigration services
+        \n4)	Get copies of the papers prepared for you
+        \n5)	Get a receipt with amount paid, the date, and name and address of person or business
+        \n6)	Get a second opinion
+        \n7)	Make sure the immigration consultant or immigration attorney signs your forms as the preparer
+        \nAttention! You should never
+        \n1)	Trust an immigration consultant or public notary just because a friend invites you to meet them
+        \n2)	Pay for entire services before signing a contract or before work is complete
+        \n3)	Sign blank application papers
+        \n4)	Sign papers, immigration forms, or contracts that you do not fully understand
+        \n5)	Let anyone keep your original documents
+        \n6)	Pay for government application forms. Form are free and can be downloaded via <a href="www.uscis.gov/forms">this page</a>.
+    </string>
+    <string name="visaHelpQuestion13">What is the difference between an immigration consultant and lawyer?</string>
+    <string name="visaHelpAnswer13">
+        A consultant is not the same as a lawyer. A consultant undergoes a background check and pays a fee to become licensed. He or she can answer questions on immigration forms, provide copies, submit forms, and translate questions and answers. They cannot get you visas or work permits immediately or influence government officials.
+        \nA lawyer, on the other hand, can provide legal advice, advise which forms you will need, assist with your immigration case, and represent you in court.
+    </string>
+    <string name="housingQuestion1">How can I find housing in my area that is safe, affordable, and available?</string>
+    <string name="housingAnswer1">
+        Finding safe and comfortable housing is one of the hardest problems new immigrants face in the United States.
+        In general, you can find housing on <a href="www.craigslist.com">Craigslist</a> (you can change the city on the site when you search).
+        In addition, you can find a local newspaper and read the “Classifieds” section—it usually contains available apartments or home for rent.
+        Lastly, you can go to <a href="www.google.com">Google</a> and search for “rental housing + city name” on your phone to view other local websites.
+        Many Americans also find housing by looking for signs that say “For Rent” in the neighborhood.
+        \n\nIf you feel as if you may qualify for public housing because of your income level, you can find contact information for your local Public Housing Agency <a href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/public_indian_housing/pha/contacts">here</a>.
+        More information about specific state programs that provide housing assistance to those in need can be found <a href="http://portal.hud.gov/hudportal/HUD?src=/topics/rental_assistance/local">here</a>.
+    </string>
+    <string name="housingQuestion2">What rights do I have as a renter in general in the US?</string>
+    <string name="housingAnswer2">
+        Many laws vary by state—for a complete list of tenant rights for your state, you can visit <a href="http://portal.hud.gov/hudportal/HUD?src=/topics/rental_assistance/tenantrights">this site</a>.
+        The Fair Housing Act, however, protects people from discrimination when they are renting, buying, or securing financing for any housing.
+        It also includes discrimination based on nationality. Landlords cannot set different prices for renters based on nationality or refuse to negotiate for housing.
+        \n\nIf you feel as if you have faced discrimination in your housing search, you can and should file a complaint within one year.
+        You can submit a HUD form <a href="http://www.hud.gov/complaints/housediscrim.cfm">here</a> that starts an investigation into the alleged violation. If the government finds discrimination did occur, you can receive money for damages as well as the right to live in the housing.
+        You can find more information about the Fair Housing Act and your rights under that law <a href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/FHLaws/yourrights">here</a>.
+    </string>
+    <string name="housingQuestion3">What can I do if my landlord is taking advantage of me?</string>
+    <string name="housingAnswer3">
+        You should contact a Housing Counseling Agency in your state. A list of Housing Counseling Agencies is <a href="http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm">here</a>.
+        An agent provides advice on buying a home, renting, defaults, foreclosures, and credit issues. You can also call (800) 569-4287 for free.
+        \n\nFor more information about security deposit fraud, you can visit <a href="http://www.nolo.com/legal-encyclopedia/security-deposit-limits-deadlines-your-state-36186.html">this website</a> for state-specific information.
+    </string>
+    <string name="careerGuidanceQuestion1">What are some common job-searching websites?</string>
+    <string name="careerGuidanceAnswer1">
+        It can be tricky to find a job in the US. You can search for employment on websites, at local community centers, or at local businesses in your area.
+        \n\n 1) <a href="www.google.com">www.google.com</a>
+        \n\nHere you can search for jobs by entering your local area (i.e., “Boston” or “Miami”) followed by a job title.
+        \n\n2) <a href="www.monster.com">www.monster.com</a>
+        \n\nMonster is one of the largest career websites in the US. It displays job opportunities for most of the largest companies as well as many small and medium businesses. You first create your profile on the website and then search by job title and location.
+        \n\n3)	<a href="www.craigslist.org">www.craigslist.org</a>
+        \n\nCraiglist organizes itself by geography: you first pick your city and then you can view job placements. Many of the jobs on Craigslist are temporary, but you can also find longer-term jobs there as well.
+        \n\n4)	<a href="www.linkedin.com">www.linkedin.com</a>
+        \n\nLinkedIn is a free and popular social media website for workers. You can create a profile, enter your skills and prior jobs, and search for open opportunities. The site is useful for its excellent search features which let you pick a location and an industry as well as type of company. The site lets you message companies and other users directly.
+    </string>
+    <string name="careerGuidanceQuestion2">What are some other ways to find a job?</string>
+    <string name="careerGuidanceAnswer2">
+        1)	Talk to friends, relatives, and other recent arrivals to the US. They can put you in touch with businesses who may not advertise a job listing or who do not advertise online. Networking is a common way to find a job in the US.
+        \n\n2)	Approach local businesses in person. You can also search <a href="www.maps.google.com">Google Maps</a> for local businesses. Then you make a list of each business’ hours, address, and type. It’s best to go to these businesses when they are not busy (typically 30min after open and 30min before close). Ask to speak with the manager and bring a friend if you are not at ease speaking English yet. Be sure to bring a copy of your resume if you have one (and see the section in this app about resume writing!). An in-person visit helps more than a resume drop off or online application.
+    </string>
+    <string name="careerGuidanceQuestion3">How do I write a resume?</string>
+    <string name="careerGuidanceAnswer3">
+        <a href="http://www.arrived.us/sample_resume_1.html">Sample resume 1</a>
+        \n\n<a href="http://www.arrived.us/sample_resume_2.html">Sample resume 2</a>
+    </string>
+    <string name="careerGuidanceQuestion4">I was discriminated at work. Is discrimination against the law?</string>
+    <string name="careerGuidanceAnswer4">Discrimination at work based on age, skin color, nationality, and religion is undocumented. Your employer also has an obligation to stop any harassment from co-workers due to your race, nationality, or religion. Your employer also cannot treat you differently because of your accent. You cannot be hired or fired because of your religion, skin color, or nationality, and employers may not retaliate against you if you file a discrimination claim. If you feel as if you have been discriminated, write down the facts of the case and contact the <a href="https://www.eeoc.gov/contact/index.cfm">U.S. Equal Employment Opportunity Commission (EEOC)</a>.</string>
+    <string name="legalHelpQuestion1">Where can I find legal help?</string>
+    <string name="legalHelpAnswer1">
+        Many local, state, and national organizations can help you tackle immigration problems. You can begin with a search on <a href="www.google.com">www.google.com</a> for immigrant legal center followed by your city name. Some of these organizations will provide support but not legal counsel; others will provide free legal services or put you in touch with law clinics. You can also search for “voluntary,” “civil rights lawyer,” or “immigration law clinic OR caucus” to find an organization that can help you. Local law schools at universities may also have students who can provide legal assistance.
+    </string>
+    <string name="legalHelpQuestion2">How do I know I can trust an organization?</string>
+    <string name="legalHelpAnswer2">You should ask each organization for a list of partner organizations. Most non-profits have connections with other local or national non-profits. In addition, you should ask if they could put you in touch with past clients.</string>
+    <string name="legalHelpQuestion3">I have an immigration appeal. Which organization can provide services for me?</string>
+    <string name="legalHelpAnswer3">
+        You should find an organization recognized by the Board of Immigration Appeals (BIA). For an organization to be recognized, it must have enough knowledge and experience to provide services to immigrants. A recognized organization can charge or accept only very small fees for those services. For a list of these BIA-recognized organizations, visit <a href="www.justice.gov/eoir/recognition-accreditationroster-reports">www.justice.gov/eoir/recognition-accreditationroster-reports</a>.
+        \n\n•	An Accredited Representative: People who are connected to BIA recognized organizations. These representatives can charge or accept only very small fees for their services. For a list of these BIA-accredited representatives, visit <a href="http://www.justice.gov/eoir/recognition-accreditationroster-reports">http://www.justice.gov/eoir/recognition-accreditationroster-reports</a>.
+        \n\n•	A Qualified Representative: People who will provide free services. These representatives must know about immigration law and the rules of practice in court. Law school students and graduates, and people with good moral character who have a personal or professional affiliation with you (relative, neighbor, clergy, co-worker, or friend) are all examples of qualified representatives.
+        \n\n•	Free Legal Service Providers: The Department of Justice has a list of recognized free legal service providers for people who are in immigration proceedings. This is a list of attorneys and organizations that may be willing to represent immigrants in proceedings before immigration courts. The attorneys and organizations on this list have agreed to help immigrants pro bono (free of charge) only in immigration proceedings. Some of them may not be able to help you with non-court-related matters, such as visa petitions, naturalization, etc. The list is available at <a href="www.justice.gov/eoir/free-legal-services-providers">www.justice.gov/eoir/free-legal-services-providers</a>.
+        \n\n•	Pro Bono Program: Local lists of recognized pro bono organizations and their representatives are usually available at each local USCIS office. For more information about finding legal services, please visit <a href="www.uscis.gov/legaladvice">www.uscis.gov/legaladvice</a>.
+    </string>
+    <string name="legalHelpQuestion4">What should I do when I encounter the police, immigration, or customs agents?</string>
+    <string name="legalHelpAnswer4">
+        •	You have to give your name and date of birth—nothing else
+        \n\n\•	You do not need to answer any other questions
+        \n\n•	You have the right to talk to a lawyer first and receive interpretation services
+        \n\n•	Agents may not enter your home without a warrant
+        \n\n•	While agents can pat you down, they cannot perform a wider search
+        \n\n•	You should neither sign any documents without a lawyer present nor present any false documents
+        \n\n•	Record the agent’s name and ID
+
+        \n\nHere is a sample conversation with phrases you should use:
+        \n\n\1.	“I choose to remain silent.”
+        \n\n2.	“I need {Spanish/Portuguese/Chinese…} language help.”
+        \n\n3.	“Am I free to leave?”
+        \n\na.	If no: “I would like to speak to a lawyer”
+        \n\nb.	If yes: Leave immediately
+        \n\n4.	“I want to contact this (organization/attorney) at this (phone number).”
+    </string>
+    <string name="deportationHelpQuestion1">What to do if Immigrations and Customs Enforcement arrests you?</string>
+    <string name="deportationHelpAnswer1">
+        •	Ask for a lawyer and stay quiet. Only state your name and date of birth.
+        \n\n•	Always give your complete and true name.
+        \n\n•	Call family and ask them to find you a lawyer.
+        \n\n•	Do not sign any papers without consulting a lawyer.
+        \n\n•	You will be assigned an “A Number.” Write it down and share it with your family.
+        \n\n•	Ask for a bond.
+        \n\n•	Write down who is arresting you and their ID numbers.
+        \n\n•	Asked to be released on bond. If it is denied, ask for a bond hearing before a judge.
+        \n\n•	If you are given an electronic ankle bracelet for tracking, you can file a challenge with the immigration court within seven days of your release.
+    </string>
+    <string name="deportationHelpQuestion2">What do I need to know about posting bond?</string>
+    <string name="deportationHelpAnswer2">
+        Posting bond means you go to a prison or jail and pay money to release an inmate. This money is returned to you if the inmate arrives at his or her court appearance (typically 1-3 months after the initial detention). In some cases, you cannot post bond.
+        \n\nMost people are eligible for bond unless they have a history of serious criminal convictions. If you have illegally re-entered after deportation may not get bond either. However, if you have been in custody for over six months, you may request bond no matter your criminal or deportation past. Once bond is posted, you will be released and required to appear before a judge in deportation or removal hearings at a later date.
+
+    </string>
+    <string name="deportationHelpQuestion3">How can I post bond?</string>
+    <string name="deportationHelpAnswer3">
+        You can call the DHS Detention and Deportation branch and give the person’s name, date of birth, date of arrest, and number. You can then ask if the bond has been set and the steps to pay it. To post bond, you must be a citizen or legal resident of the United States. By posting bond, you accept responsibility for that person presenting him- or herself before a deportation official. They may run a background check on the payer, so you may wish to consult an attorney beforehand. When the case is complete, you will receive the money back assuming the person has complied with the ruling and does not attempt to flee.
+    </string>
+    <string name="deportationHelpQuestion4">What is a deportation proceeding?</string>
+    <string name="deportationHelpAnswer4">
+        Removal Proceedings are a series of hearings in immigration court overseen by an immigration judge. An attorney at the hearing will represent both the Department of Homeland Security and Immigration and Customs Enforcement. Unlike a criminal proceeding, the government will not provide a lawyer for you. The consequences for not appearing at a court hearing are severe. There are two types of hearings: master and individual. Master hearings are shorter whereas individual hearings are longer and let you plead your case. A decision is not typically made at your first hearing.
+    </string>
+    <string name="deportationHelpQuestion5">What is cancellation of removal?</string>
+    <string name="deportationHelpAnswer5">
+        Cancellation of Removal is a ruling for those without status to prevent their deportation. In order to be eligible for cancellation of removal, you must be a person of good character, a resident in the US for 10 years before the removal proceedings began, and a law-abiding individual free of criminal charges. In addition, if your removal would case grave harm to a US resident or citizen, you may be able to receive a cancellation of removal.
+    </string>
+    <string name="deportationHelpQuestion6">What is temporary protected status?</string>
+    <string name="deportationHelpAnswer6">
+        Temporary Protected Status (TPS) is a status for foreign nationals in the US whose home countries are unsafe. You cannot renew TPS if you have been convicted of a crime. You cannot leave the US with TPS without prior permission.
+    </string>
+    <string name="deportationHelpQuestion7">What is adjustment of status?</string>
+    <string name="deportationHelpAnswer7">
+        Adjustment of Status (AOS) is a procedure that allows for an individual to apply for lawful permanent resident status without leaving the US. Either your family or your employer can file the petition to grant you AOS. However, if you are in the US without documents, you may not be able to adjust status even with a petition.
+    </string>
+    <string name="deportationHelpQuestion8">What are my constitutional rights?</string>
+    <string name="deportationHelpAnswer8">
+        If immigration agents or local police arrested you illegally, you may be able to challenge the evidence against you in immigration court. Immigrants still have constitutional rights, and agents must respect those rights.
+    </string>
+    <string name="deportationHelpQuestion9">What if I have a prior removal order?</string>
+    <string name="deportationHelpAnswer9">
+        These cases are tricky and must be handled with care. In general, if you have been deported previously, then you have limited rights and may not be able to appear before a judge. You have four options:
+        \n\n1)	File a humanitarian stay of removal
+        \n\n2)	File a motion to reopen your case with the immigration judge
+        \n\n3)	File a U-Visa petition
+        \n\n4)	Request an interview with the asylum office (if you feel you will be harmed if you return to your home country)
+    </string>
+    <string name="englishHelpQuestion1">What are some ways to learn English online?</string>
+    <string name="englishHelpAnswer1">
+        These websites will help you learn English online:
+        \n\n•	<a href="http://www.usalearns.org/">USA Learns</a>. The US government created a website that teaches English for free online. It is aimed for beginners and intermediate learners.
+        \n\n•	BBC. The British television broadcaster created <a href="http://www.usalearns.org/">free English lessons</a> you can use online. These materials will teach you pronunciation and everyday English. It is best for those with some knowledge of English already.
+        \n\n•	Pronunciation. Many who study English find that pronouncing words is one of the hardest parts of learning the language. <a href="http://www.manythings.org/pp/">This website</a> provides “listen and repeat” exercises for common sounds.
+        \n\n•	TV. Television is an excellent way to learn English. You can start by watching TV in English with English sub-titles. At first, many of the words will be confusing. But if you keep a dictionary near you and look up words as you see them, you will find that you can slowly build a strong vocabulary.
+        \n\n•	Blogs. You can also read blogs to learn English. <a href="http://eslhiphop.com/">ESL Hip Hop</a> takes its inspiration from influential hip hop/rap songs to teach everything from prepositions to tenses.
+        \n\n•	Apps. The Play Store has many apps that teach English. The British Broadcasting Corporation (BBC) launched a <a href="https://play.google.com/store/apps/details?id=vn.scdgroup.bbclearningenglish">conversational English app</a> with quick six-minute lessons. <a href="https://play.google.com/store/apps/details?id=hk.hkbc.epodcast">LearnEnglish Podcasts</a> is a perfect app for slightly more advanced students—its episodes feature native speakers discussing their hobbies, weekend plans, and activities and a highlighted script you can read while listening. Lastly, <a href="https://play.google.com/store/apps/details?id=com.duolingo">DuoLingo</a> is a popular app among Americans learning a foreign language; its English-language version builds vocabulary and grammar via fun, fast games and daily challenges.
+    </string>
+    <string name="englishHelpQuestion2">How can I learn common phrases in English along with their meanings?</string>
+    <string name="englishHelpAnswer2">
+        Idioms are short phrases that you will encounter when speaking or reading English. These expressions are incredibly helpful to convey an idea, but they often are nonsensical when read at first. <a href="http://www.smart-words.org/quotes-sayings/idioms-meaning.html">This website</a> provides an explanation of common idioms in English. If you feel confident in your English already, you can study these idioms and begin to use them in conversation. Once you start to learn them, you will start to hear these expressions frequently!
+    </string>
+    <string name="supportGroupsQuestion1">What support groups are open to me as a documented/undocumented immigrant?</string>
+    <string name="supportGroupsAnswer1">
+        The US has many local, state, and national groups that cater to immigrants from all backgrounds. PublicEye.org keeps a thorough list <a href="http://www.publiceye.org/research/directories/immig_grp_defend.html">here</a>. You can also find more groups <a href="http://www.nnirr.org/drupal/border-groups">here</a> thanks to the National Network for Immigrant and Refugee Rights.
+    </string>
+
+    <string name="faqQuestion1">How can I share this app with my friends?</string>
+    <string name="faqAnswer1">You can share this app by clicking on the icon on the top right corner of the page.</string>
+    <string name="faqQuestion2">Help! I need a lawyer. Could you please refer me?</string>
+    <string name="faqAnswer2">
+        Unfortunately, we cannot provide legal advice or refer you to an attorney. However, you can find a lawyer in your area who can assist with your specific case with Google, through referrals from friends or relatives, or at a local library’s law section. In addition, the Department of Justice has a <a href="https://www.justice.gov/eoir/list-pro-bono-legal-service-providers-map">list</a> of free legal service providers by state. It also has a <a href="https://www.justice.gov/eoir/recognition-accreditation-roster-reports">database</a> of accredited or trustworthy organizations that provide legal services to immigrants.
+    </string>
+    <string name="updates">You\'re holding the first version of our app! We hope you like it.</string>
+    <string name="eula">Arrived End User License Agreement
+        \n\n
+        This End User License Agreement (“EULA”) is a legal agreement between the end-user Customer of Arrived’s Software Products (“Customer”) and Arrived (“Arrived”) regarding Customer’s use of the Software (as defined below).  Arrived is willing to license the Software to Customer upon the condition that it accepts and complies with the terms contained in this EULA where Customer accepts such license at the time of download of the EULA, the (“Agreement”).
+        Customer’s use, installation, or access of the Software constitutes agreement with and acceptance of this Agreement.
+        \n\n 	Definitions.
+        \n\na.  “Software” means the object or binary code or firmware, any accompanying documentation, and any upgrades or updates therefor, that are provided by Arrived or an Approved Source on Arrived’s behalf, and either are (i) included with or embedded in the Arrived Hardware, or (ii) provided as a stand-alone software product. For the avoidance of doubt, Software expressly excludes third party software.
+        \n\nb.  “Hardware” means the hardware products, purchased from Arrived directly or through an authorized Arrived channel partner (“Approved Source”) that may include Software and expressly excludes third party non-Arrived branded hardware products that may run Software.
+        \n\nc. “Product” means, the Software, the Hardware, and/or any combination thereof.
+        \n\n
+        \n\nLicense Grant. Subject to and conditioned upon Customer’s compliance with the restrictions and terms set forth in the Agreement:
+        \n\nArrived hereby grants Customer a non-exclusive, non-sublicensable, non-transferable worldwide license to (i) use the Software for Customer’s personal purposes or educational purposes only; and (ii) Customer may install and use an unlimited number of copies of the Software but shall not charge a fee for distributing this Software (either for profit or merely to recover media and distribution costs).
+        \n\n
+        Restrictions. Arrived Software is being distributed without a fee.  Customer will not, nor will he or she allow or authorize any third party to:
+        \n\na. copy, duplicate, disclose, distribute, modify, sublicense, license, transfer, or exploit or create derivative works of the Software or permit any third party to do so for profit without prior written consent of Arrived, it’s owners, agents or representatives;
+        \n\nb. use, transfer, or distribute the Software in competition with Arrived;
+        \n\nc. decompile, reverse translate, disassemble, or reverse engineer the Software or cause the Software to be subject to any open source obligations or release;
+        \n\nd. remove any proprietary markings or copyright notices from any Arrived Software, or translate the Software into any other format or language without prior written consent of Arrived, it’s owners, agents or representatives.
+        \n\n
+        \n\nCopyright. The license granted in this Agreement is not a transfer or sale of Arrived or its licensors’ ownership rights in the Software or its intellectual property. Except for the license specifically granted in this Agreement, Arrived retains all right, title, and interest in and to the Software, the related source code and intellectual property, and any and all modifications or derivatives. The Software is confidential to Arrived and protected by applicable trade secret and intellectual property laws. Arrived owns all title and copyrights of the Software Product.  The Software Product is protected by copyright laws and international treaty provisions.
+        \n\n
+        \n\nTechnical Support. For ninety (90) days from the date the Software is downloaded by the Customer or shipped to the Customer by Arrived or an Approved Source, Arrived may ¬provide software updates (bug fixes, maintenance releases, and feature upgrades) for the Software.
+        \n\nNo Other Warranties. EXCEPT AS SET FORTH HEREIN, THE PRODUCT IS PROVIDED ON AN “AS IS” BASIS. CUSTOMER ASSUMES ALL RESPONSIBILITIES FOR SELECTION OF THE PRODUCT TO ACHIEVE ITS INTENDED RESULTS, AND FOR THE INSTALLATION OF, USE OF, AND RESULTS OBTAINED.  ARRIVED MAKES NO REPRESENTATIONS AND UNDERTAKES NO INDEMNIFICATION OBLIGATIONS REGARDING, ARISING FROM, OR RELATED TO THE LEGALITY OF MONITORING OF NETWORKS OR INFORMATION IN A PARTICULAR JURISDICTION, AND CUSTOMER IS SOLELY RESPONSIBLE FOR DETERMINING THAT CUSTOMER’S PROPOSED OR ACTUAL USE OF THE PRODUCT COMPLIES WITH APPLICABLE LAWS. CUSTOMER ACKNOWLEDGES AND AGREES THAT ARRIVED WILL HAVE NO LIABILITY WHATSOEVER FOR ANY CLAIMS, LOSSES, ACTIONS, DAMAGES, SUITS, OR PROCEEDINGS RESULTING FROM: (A) THE USE OF THE PRODUCTS BY CUSTOMER OR THIRD PARTIES.  COMMUNICATION OF INFORMATION BY, IN, TO OR THROUGH THE SOFTWARE PRODUCT AND CUSTOMER’S RECEIPT OR USE OF IT (1) IS NOT INTENDED TO CONVEY OR CONSTITUTE LEGAL ADVICE, AND (2) IS NOT A SUBSTITUTE FOR OBTAINING LEGAL ADVICE FROM A QUALIFIED ATTORNEY.  CUSTOMER SHOULD NOT ACT UPON ANY SUCH INFORMATION WITHOUT FIRST SEEKING QUALIFIED PROFESSIONAL COUNSEL ON HIS OR HER SPECIFIC MATTER.
+        \n\nTerm and Termination. This Agreement is effective as of the date of Customer’s first use or access, or installation of the Software and remains in effect until Customer’s failure to comply with any term of this Agreement, including any failure to pay license fees, if applicable. In such event Customer must destroy all copies of the Software Product and all of its component parts.
+        \n\n
+                Limitation of Liability. UNDER NO CIRCUMSTANCES WILL ARRIVED (including its officers, employees, directors, subsidiaries, representatives, affiliates, agents, contributors and licensors) BE LIABLE FOR ANY CONSEQUENTIAL, SPECIAL, INDIRECT, INCIDENTAL, OR PUNITIVE DAMAGES WHATSOEVER ARISING OUT OF THE USE OR INABILITY TO USE THE PRODUCTS, EVEN IF ARRIVED HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+                \n\nIndemnification. Customer will defend, indemnify, and hold harmless Arrived (including its officers, employees, directors, subsidiaries, representatives, affiliates, agents, contributors and licensors) from and against any damages (including reasonable attorney’s fees and expenses), claims, and lawsuits that arise or result from Customer’s breach of any provision of this Agreement.
+        \n\n
+         Intellectual Property. Arrived, its logo, and all other names, logos, or icons identifying Arrived and its programs, products, and services are proprietary, and any use of identical or confusingly similar marks, including as domain names, without Arrived’s express written permission is strictly prohibited.
+        Jurisdiction. This Agreement is governed by the laws of the State of California, without reference to its conflict of laws principles. Except as set forth above, any dispute regarding this Agreement will be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco County,  California, U.S.A. This Agreement is the entire agreement between Customer and Arrived and supersedes any other communications with respect to the Software.
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="startingButton">Start</string>
+    <string name="aboutButton">About</string>
+    <string name="englishHelpQuestion3">What is the Dream Act and how can I benefit?</string>
+    <string name="englishHelpAnswer3">The DREAM Act (acronym for Development, Relief, and Education for Alien Minors) is an American legislative proposal for a multi-phase process for undocumented immigrants in the United States that would first grant conditional residency and upon meeting further qualifications, permanent residency.</string>
+    <string name="englishHelpQuestion4">If I am an undocumented immigrant, can I enroll my children in public school?</string>
+    <string name="englishHelpAnswer4">All children in the United States are entitled to equal access to a basic public elementary and secondary education regardless of their actual or perceived race, color, national origin, citizenship, immigration status, or the status of their parents/guardians. School districts that either prohibit or discourage, or maintain policies that have the effect of prohibiting or discouraging, children from enrolling in schools because they or their parents/guardians are not U.S. citizens or are undocumented may be in violation of Federal law.</string>
+    <string name="englishHelpQuestion5">What is Khan Academy?</string>
+    <string name="englishHelpAnswer5">Khan Academy is a personalized learning resource for all ages. Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. It teaches math, science, computer programming, history, art history, economics, and more.</string>
+    <string name="visaHelpAnswer14">A consulate is an office of one nation located in the country of another. For example, at the Mexican consulate in San Francisco, diplomats work to represent Mexicans living in the US with paperwork, advice, and even legal visitation if they are arrested. The grounds of a consulate do not belong to the host country. So the Mexican consulate in San Francisco is part of Mexico—not the United States. A Consul General is the head of the office. Consulates can be found in major cities of a country, but typically not the capital of a country.  \n\n An embassy, on the other hand, is located in the capital of a country. An ambassador oversees the office. It performs many of the same duties as the consulate but on a larger scale.</string>
+    <string name="visaHelpQuestion14">What are consulate and an embassy?</string>
+    <string name="homepageMenu12">Driving</string>
+    <string name="careerGuidanceQuestion5">I am a victim of labor trafficking. What can I do now that I have arrived in the US?</string>
+    <string name="careerGuidanceAnswer5">Labor trafficking is a form of slavery that occurs when someone is taken from his or her home, smuggled to a new place, and forced to work. But labor trafficking can take other forms as well: debt bondage, coercion, and even child labor. Certain industries such as agriculture, hospitality, and manufacturing employ more trafficked individuals than others.\n\nIf you have been forced, defrauded, or coerced into working, you can call the National Human Trafficking Resource Center (1-888-373-7888) 24 hours a day, seven days a week, for free to speak to someone who can help you.\n\nIn 2000, the US government enacted a new law to protect victims of trafficking. Benefits include educational, health care, job training, and other state or federal programs that refugees receive in the US. In addition, victims may be eligible for the witness protection program.\n\nIn addition, the law created the T Visa that allows victims of severe forms of trafficking and their immediate family members to become temporary residents of the US.</string>
+    <string name="careerGuidanceQuestion6">What are my rights as an undocumented worker in the United States?</string>
+    <string name="careerGuidanceAnswer6">Undocumented workers enjoy all of the legal rights provided by both federal and state law.\n\nSo the same Federal and California wage and hour laws that apply to authorized workers generally apply to persons working without legal immigration status. These laws establish your right to minimum wage, overtime pay, breaks, tips, and other forms of wages. For example, an employer cannot refuse to pay you by saying that you should not have been working in the first place because you have no “papers.”\n\nIf you choose to file a wage claim, you can either file with the California Division of Labor Standards Enforcement (the “Labor Commissioner”) or sue your employer in court. You can also contact the U.S. Department of Labor (DOL). Neither of these agencies should question you about your immigration status.\n\nHowever, if you do report your employer, he may retaliate against you by contacting immigration authorities who may deport you.</string>
+    <string name="drivingQuestion1">How can I receive a driver’s license?</string>
+    <string name="drivingAnswer1">If you are an immigrant in the US who has documentation, you can apply for a driver’s licenses at your state’s Department of Motor Vehicles (DMV). You will typically need to bring proof of your identity and an original copy of your driving permit from your home country. If you are an undocumented immigrant, certain states will let you take a driver’s test and receive a license. California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maryland, New Mexico, Nevada, Utah, Vermont and Washington allow it.</string>
+    <string name="drivingQuestion2">What do I do if a police officer stops my car?</string>
+    <string name="drivingAnswer2">1.	Slow down safely and park beside the road without blocking traffic.\n\n2.	Lower the driver’s side window.\n\n3.	Keep your hands on the steering wheel.\n\n4.	Do not reach in your pocket or to the glove compartment—the officer will assume you are reaching for a gun.\n\n5.	Say as little as possible and politely end sentences with “officer” or “sir.”\n\n6.	If an officer tries to search your body or car, you can say, “Officer, I’m not resisting. I do not consent to this search.” \n\n7.	Never touch or physically resist a police officer.</string>
+    <string name="drivingQuestion3">How can I be a safe driver?</string>
+    <string name="drivingAnswer3">You should always obey the speed limit and street signs, especially in school zones and cities. Remember that in the US, turn signals and street lines are rules not suggestions, and drivers are often distracted with cell phones and meals while behind the wheel. In the US, most intersections have crosswalks and although you may be tempted to pull up to the white line, you may hit or block pedestrians crossing the street.</string>
+    <string name="homepageMenu14">Health Knowledge</string>
+    <string name="healthQuestion1">How can I purchase health insurance?</string>
+    <string name="healthAnswer1">With the Affordable Care Act (ACA), you are required to sign up for healthcare insurance if you live in the US as a citizen or documented immigrant. If you do not purchase insurance, you will have to pay a fine.\n\nIf you are an undocumented immigrant or incarcerated, you are not eligible to sign up for the healthcare exchanges. You will not be charged a penalty for failing to purchase health insurance.</string>
+    <string name="healthQuestion2">If I am sick and go to a hospital and can’t afford it, what happens next?</string>
+    <string name="healthAnswer2">You have a few options: make sure the charges on the bill are correct; ask if the hospital will draft an interest-free payment plan; ask for an on-time pay discount; and apply for financial assistance. If you still cannot afford the bills, you can file for Chapter 7 bankruptcy (if your income is below the median income for your state) or Chapter 13 (and allow the hospital to deduct your wages until the bill is repaid).</string>
+    <string name="healthQuestion3">How can I purchase healthy food at a low price?</string>
+    <string name="healthAnswer3">In the US, many restaurants and supermarkets offer unhealthy yet cheap food. You can go to membership supermarkets such as Costco and Sam’s Club to purchase food in bulk at discounted prices. In addition, you should see if your town has a farmer’s market where you can purchase fruits and vegetables at lower prices than a local supermarket.</string>
+    <string name="homepageMenu15">Financial Advice</string>
+    <string name="financialQuestion1">How can I open a bank account?</string>
+    <string name="financialAnswer1">Many banks in the US let you open a bank account for free. There are two types of accounts: checking and savings. A checking account gives the account holder a book of checks that some businesses accept instead of cash. These accounts do not earn interest. A savings account, on the other hand, will give you a debit card and allow you to earn a small interest rate. The main banks in the US are Bank of America, Chase, Wells Fargo, TD Bank, and Citi Bank.</string>
+    <string name="financialQuestion2">How can I sign up for a credit card?</string>
+    <string name="financialAnswer2">You need a credit score to sign up for a credit card. A credit score is a rating that predicts how likely you are to repay your debts. A high credit score is 850 and 200 is a low credit score. You can start a credit score by applying for a secured credit card. If you make payments each month and do not spend over the limit, your credit score will increase over time.</string>
+    <string name="financialQuestion3">I need to file for taxes. How can I pay them?</string>
+    <string name="financialAnswer3">Many individuals qualify for free tax preparation from <a href="http://www.turbotax.com">TurboTax</a>is a software program that calculates how much you owe in federal and state taxes if applicable. Typically, Americans pay taxes every April. If you earn less than $100,000 and you have standard deductions, you can file for free with the <a href="https://turbotax.intuit.com/personal-taxes/online/free-edition.jsp">TurboTax Federal Free Edition</a>.</string>
+    <string name="financialQuestion4">What is a loan shark and how do I avoid them?</string>
+    <string name="financialAnswer4">A loan shark offers short-term loans at high interest rates. In the US, these lenders are also known as payday lending companies. Many states have set maximum interest rates that you can offer for a loan (typically below 50%). Several states have rules that limit the number of rollovers allowed. So if you live in Texas, the payday lender cannot rollover the debt into the next period (and increase the total amount owed).</string>
+    <string name="financialQuestion5">How can I track my income and expenses with an app or online?</string>
+    <string name="financialAnswer5">Several apps can track your income and expenses. <a href="http://www.mint.com">Mint</a> is a popular website and app that is free to use. <a href="https://play.google.com/store/apps/details?id=com.dayspringtech.envelopes">GoodBudget</a> is another app for Android and iOS that lets you set a budget and measure your performance. <a href="https://play.google.com/store/apps/details?id=com.blodhgard.easybudget">Fast Budget</a> is an app that merges your credit card spending with your bank account activity.</string>
+    <string name="legalHelpQuestion5">What is a public defender?</string>
+    <string name="legalHelpAnswer5">In the US, every individual has a right to a lawyer if convicted of a crime. If you are convicted of a crime but cannot afford an attorney, the court will appoint a public defender (a government official) to represent you in court. These public defenders will take your side in a case and attempt to dismiss or reduces the charges.</string>
+    <string name="supportGroupsQuestion2">What is InterNations?</string>
+    <string name="supportGroupsAnswer2"><a href="http://www.internations.org">InterNations</a> is a social networking site for foreigners and ex-pats. The website is free to use and lets you create a profile similar to Facebook and connect with others. You can participate in events, groups, and forums to meet other travelers or immigrants from around the world in person or online.</string>
+    <string name="tubeButton">Watch</string>
+    <string name="youTubeInstructions">Click on the forward and back buttons to scroll to other videos on the playlist.</string>
+</resources>

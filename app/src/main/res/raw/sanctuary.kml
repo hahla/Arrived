@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Sanctuary Cities</name>
+    <Style id="sanctuaryDefault">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal3/icon23.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ffff0000</color>
+      </PolyStyle>
+    </Style>
+    <Folder>
+      <name>City List</name>
+      <description>In the US</description>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Denver, CO</address>
+        <description>Denver, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-104.990251,39.7392358,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Durango, CO</address>
+        <description>Durango, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-107.8800667,37.27528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Federal Heights, CO</address>
+        <description>Federal Heights, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.0158511,39.8596261,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Fort Collins, CO</address>
+        <description>Fort Collins, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.084423,40.5852602,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lafayette, CO</address>
+        <description>Lafayette, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.0897058,39.9935959,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Thornton, CO</address>
+        <description>Thornton, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-104.9719243,39.8680412,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Westminster, CO</address>
+        <description>Westminster, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.0372046,39.8366528,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Alameda Co., CA</address>
+        <description>Alameda Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-121.7195459,37.6016892,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Albany, NY</address>
+        <description>Albany, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.7562317,42.6525793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Albuquerque, NM</address>
+        <description>Albuquerque, NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-106.6055534,35.0853336,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Alexandria, VA</address>
+        <description>Alexandria, VA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-77.0469214,38.8048355,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Allentown, PA</address>
+        <description>Allentown, PA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-75.4901833,40.6084305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Amherst, MA</address>
+        <description>Amherst, MA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-72.5198537,42.3732216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Anchorage, AK</address>
+        <description>Anchorage, AK</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-149.9002778,61.2180556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Ann Arbor, MI</address>
+        <description>Ann Arbor, MI</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-83.7430378,42.2808256,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Arlington, VA</address>
+        <description>Arlington, VA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-77.1067698,38.8799697,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Ashland, OR</address>
+        <description>Ashland, OR</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.7094767,42.1945758,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Aurora, CO</address>
+        <description>Aurora, CO</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-104.8319195,39.7294319,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Austin, MN</address>
+        <description>Austin, MN</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-92.97463669999998,43.6666296,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Austin, TX</address>
+        <description>Austin, TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-97.74306079999999,30.267153,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Aztec, NM</address>
+        <description>Aztec, NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-107.9928455,36.8222261,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Baker Co., OR</address>
+        <description>Baker Co., OR</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-117.67692,44.7652304,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Baltimore, MD</address>
+        <description>Baltimore, MD</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-76.6121893,39.2903848,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Bay Shore, NY</address>
+        <description>Bay Shore, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.2453946,40.7250986,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Baytown, TX</address>
+        <description>Baytown, TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-94.9774274,29.7355047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Bell Gardens, CA</address>
+        <description>Bell Gardens, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.1514588,33.9652918,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Berkeley, CA</address>
+        <description>Berkeley, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.272747,37.8715926,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Bernalillo Co. NM</address>
+        <description>Bernalillo Co. NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-106.6291304,35.0177854,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Boston, MA</address>
+        <description>Boston, MA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-71.0588801,42.3600825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Brentwood, NY</address>
+        <description>Brentwood, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.2462273,40.7812093,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Broward Co., FL</address>
+        <description>Broward Co., FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.365865,26.190096,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Brownsville, TX</address>
+        <description>Brownsville, TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-97.4974838,25.9017472,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Burlington, VT</address>
+        <description>Burlington, VT</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.21207199999999,44.4758825,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Butler Co.</address>
+        <description>Butler Co.</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-79.945966,40.876482,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Carrboro, NC</address>
+        <description>Carrboro, NC</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-79.0752895,35.9101438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Harvey Co.</address>
+        <description>Harvey Co.</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-99.93549,47.769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Herando Co.</address>
+        <description>Herando Co.</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-89.9937018,34.823987,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Hightstown, NJ</address>
+        <description>Hightstown, NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.5232089,40.2695538,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Houston, TX</address>
+        <description>Houston, TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-95.3698028,29.7604267,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Jackson Hole, WY</address>
+        <description>Jackson Hole, WY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-110.7624282,43.4799291,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Jersey City, NJ</address>
+        <description>Jersey City, NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.0776417,40.72815749999999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Johnson Co.</address>
+        <description>Johnson Co.</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-101.7506777,37.5703377,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Jupiter, FL</address>
+        <description>Jupiter, FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.0942087,26.9342246,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lake County, OH</address>
+        <description>Lake County, OH</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-81.24558549999999,41.7112669,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lake Worth, FL</address>
+        <description>Lake Worth, FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.0684479,26.6167555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lancaster Co., NE</address>
+        <description>Lancaster Co., NE</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.1541632,34.6867846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Laredo, TX</address>
+        <description>Laredo, TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-99.480399,27.5305671,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lehigh Co., PA</address>
+        <description>Lehigh Co., PA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-75.5742467,40.6519679,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lima, OH</address>
+        <description>Lima, OH</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-84.1052256,40.742551,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Long Beach, CA</address>
+        <description>Long Beach, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.1937395,33.7700504,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lorain, OH</address>
+        <description>Lorain, OH</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-82.1823746,41.452819,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Los Angeles, CA</address>
+        <description>Los Angeles, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.2436849,34.0522342,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lucas County, OH</address>
+        <description>Lucas County, OH</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-83.37893889,41.68943,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Luna Co., NM</address>
+        <description>Luna Co., NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-107.8583868,32.3259122,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Lynwood, CA</address>
+        <description>Lynwood, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.2114603,33.930293,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Madison, WI</address>
+        <description>Madison, WI</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-89.4012302,43.0730517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Maplewood, MN</address>
+        <description>Maplewood, MN</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-92.9952153,44.9530215,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Marion County, OR</address>
+        <description>Marion County, OR</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.5927411,44.8446393,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Maywood, CA</address>
+        <description>Maywood, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.185349,33.9866807,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Mcallen, TX</address>
+        <description>Mcallen, TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-98.23001239999999,26.2034071,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Mesa, AZ</address>
+        <description>Mesa, AZ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-111.8314724,33.4151843,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Miami-Dade Co., FL</address>
+        <description>Miami-Dade Co., FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.1917902,25.7616798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Miami, FL</address>
+        <description>Miami, FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.1917902,25.7616798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Middlebury, VT</address>
+        <description>Middlebury, VT</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.16734,44.0153371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Milwaukee Co., WI</address>
+        <description>Milwaukee Co., WI</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-87.9065334,43.0387949,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Milwaukee, WI</address>
+        <description>Milwaukee, WI</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-87.9064736,43.0389025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Minneapolis, MN</address>
+        <description>Minneapolis, MN</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-93.2650108,44.977753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Montebello, CA</address>
+        <description>Montebello, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.1137535,34.0165053,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Monterey Co., CA</address>
+        <description>Monterey Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-121.3541631,36.3136201,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Montgomery County, MD</address>
+        <description>Montgomery County, MD</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-77.2405153,39.1547426,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Mt. Rainier, MD</address>
+        <description>Mt. Rainier, MD</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-76.96497509999999,38.9415,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Multnomah County, OR</address>
+        <description>Multnomah County, OR</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.5863212,45.5145659,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Napa Co., CA</address>
+        <description>Napa Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.2653887,38.5024689,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Nassau Co., NY</address>
+        <description>Nassau Co., NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.0059413,40.7127837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>National City, CA</address>
+        <description>National City, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-120.6042381,35.4261304,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>New Haven, CT</address>
+        <description>New Haven, CT</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-72.92788349999999,41.308274,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>New Orleans, LA</address>
+        <description>New Orleans, LA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-90.0715323,29.9510658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>New York City, NY</address>
+        <description>New York City, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.0059413,40.7127837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Newark, NJ</address>
+        <description>Newark, NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.1723667,40.735657,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>North Bergen, NJ</address>
+        <description>North Bergen, NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.012084,40.8042674,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Northampton MA</address>
+        <description>Northampton MA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-72.64120129999999,42.3250896,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Norwalk, CA</address>
+        <description>Norwalk, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.081733,33.9022367,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Oakland, CA</address>
+        <description>Oakland, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.2711137,37.8043637,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Oberlin, OH</address>
+        <description>Oberlin, OH</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-82.21737859999999,41.2939386,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Ocean Co., NJ</address>
+        <description>Ocean Co., NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.3118212,39.9652553,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Oklahoma City</address>
+        <description>Oklahoma City</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-97.5164276,35.4675602,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Omaha, NE</address>
+        <description>Omaha, NE</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-95.9979883,41.2523634,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Onondaga Co., NY</address>
+        <description>Onondaga Co., NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-76.1783739,43.026819,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Orange Co., CA</address>
+        <description>Orange Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-117.8311428,33.7174708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Orleans Parish, LA</address>
+        <description>Orleans Parish, LA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-89.8879304,30.1126874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Orleans, MA</address>
+        <description>Orleans, MA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-69.9897323,41.7898354,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Otero Co., NM</address>
+        <description>Otero Co., NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.5943388,32.6341716,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Painesville, OH</address>
+        <description>Painesville, OH</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-81.24565699999999,41.7244885,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Palm Beach Co., FL</address>
+        <description>Palm Beach Co., FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.2767327,26.6514503,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Pasco Co., FL</address>
+        <description>Pasco Co., FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-82.4319405,28.32324179999999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Philadelphia, PA</address>
+        <description>Philadelphia, PA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-75.1652215,39.9525839,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Phoenix, AZ</address>
+        <description>Phoenix, AZ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-112.0740373,33.4483771,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Pico Rivera, CA</address>
+        <description>Pico Rivera, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.096735,33.9830688,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Pinellas Co., FL</address>
+        <description>Pinellas Co., FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-82.7778579,27.876394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Pittsburgh, PA</address>
+        <description>Pittsburgh, PA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-79.9958864,40.44062479999999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Port Arthur, TX</address>
+        <description>Port Arthur, TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-93.93994699999999,29.8849504,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Portland, OR</address>
+        <description>Portland, OR</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.6764816,45.5230622,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Providence, RI</address>
+        <description>Providence, RI</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-71.4128343,41.8239891,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Provo, UT</address>
+        <description>Provo, UT</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-111.6585337,40.2338438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Raleigh NC</address>
+        <description>Raleigh NC</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-78.6381787,35.7795897,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Ramsey Co., MN</address>
+        <description>Ramsey Co., MN</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-93.06159780000002,44.9963986,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Reno</address>
+        <description>Reno</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-119.8138027,39.5296329,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Rensselaer Co., NY</address>
+        <description>Rensselaer Co., NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.55941279999999,42.673664,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Rio Ariba County, NM</address>
+        <description>Rio Ariba County, NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-106.7234639,36.6162892,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Riverhead, NY</address>
+        <description>Riverhead, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-72.66204019999999,40.9170435,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Riverside Co., CA</address>
+        <description>Riverside Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-117.3961192,33.9532966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Sacramento Co.</address>
+        <description>Sacramento Co.</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-87.26555309999999,37.4158783,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Salt Lake City, UT</address>
+        <description>Salt Lake City, UT</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-111.8910474,40.7607793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Bernardino Co., CA</address>
+        <description>San Bernardino Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-116.419389,34.9592083,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Bernardino, CA</address>
+        <description>San Bernardino, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-117.2897652,34.1083449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Diego Co., CA</address>
+        <description>San Diego Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-117.1610966,32.7157305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Diego, CA</address>
+        <description>San Diego, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-117.1610838,32.715738,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Francisco, CA</address>
+        <description>San Francisco, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.4194155,37.7749295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Jose, CA</address>
+        <description>San Jose, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-121.8863286,37.3382082,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Mateo Co., CA</address>
+        <description>San Mateo Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.4014193,37.4337342,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>San Miguel, NM</address>
+        <description>San Miguel, NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-104.8454619,35.5117793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Santa Clara County, CA</address>
+        <description>Santa Clara County, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-121.8907041,37.3336581,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Santa Cruz Co., CA</address>
+        <description>Santa Cruz Co., CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-121.9579578,37.0453988,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Santa Cruz, CA</address>
+        <description>Santa Cruz, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.0307963,36.9741171,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Santa Fe Co., NM</address>
+        <description>Santa Fe Co., NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.9699878,35.3653705,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Santa Fe, NM</address>
+        <description>Santa Fe, NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.937799,35.6869752,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Santa Maria, CA</address>
+        <description>Santa Maria, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-120.4357191,34.9530337,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Saratoga Co., NY</address>
+        <description>Saratoga Co., NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.93598209999999,43.0324245,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Sarpy Co., NE</address>
+        <description>Sarpy Co., NE</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-96.195132,41.0744042,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Seattle, WA</address>
+        <description>Seattle, WA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.3320708,47.60620949999999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Shawnee Co.</address>
+        <description>Shawnee Co.</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.5540321,39.4217144,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>So. Gate, CA</address>
+        <description>So. Gate, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.2120161,33.954737,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Sommerville, MA</address>
+        <description>Sommerville, MA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-71.0994968,42.3875968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Sonoma County, CA</address>
+        <description>Sonoma County, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-122.9888319,38.5779555,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Spokane, WA</address>
+        <description>Spokane, WA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-117.4260466,47.6587802,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Spring Valley Village, NY</address>
+        <description>Spring Valley Village, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.04375209999999,41.1131514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Springfield, MA</address>
+        <description>Springfield, MA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-72.589811,42.1014831,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>St. Lawrence Co., NY</address>
+        <description>St. Lawrence Co., NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.930206,44.4473142,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>St. Paul, MN</address>
+        <description>St. Paul, MN</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-93.08995779999998,44.9537029,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Suffolk Co., NY</address>
+        <description>Suffolk Co., NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-72.61511689999999,40.9848784,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Sunrise, FL</address>
+        <description>Sunrise, FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.25659499999999,26.1669711,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>SWMCCC, ND</address>
+        <description>SWMCCC, ND</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-102.7855612,46.8947649,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Takoma Park, MD</address>
+        <description>Takoma Park, MD</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-77.0074765,38.9778882,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Tampa, FL</address>
+        <description>Tampa, FL</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-82.45717759999999,27.950575,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Taos, NM</address>
+        <description>Taos, NM</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-105.5730665,36.4072485,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Travis Co., TX</address>
+        <description>Travis Co., TX</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-97.69822719999999,30.2097015,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Trenton, NJ</address>
+        <description>Trenton, NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.7429384,40.2170534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Tucson, AZ</address>
+        <description>Tucson, AZ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-110.926479,32.2217429,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Tulsa, OK</address>
+        <description>Tulsa, OK</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-95.99277499999999,36.1539816,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Union Co., NJ</address>
+        <description>Union Co., NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.28835359999999,40.6595001,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Uniondale, NY</address>
+        <description>Uniondale, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.59290559999999,40.7003793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Virginia Beach, VA</address>
+        <description>Virginia Beach, VA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-75.97798499999999,36.8529263,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Watsonville, CA</address>
+        <description>Watsonville, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-121.7568946,36.910231,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Wayne Co., NY</address>
+        <description>Wayne Co., NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-77.010385,43.2020024,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>West New York, NJ</address>
+        <description>West New York, NJ</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-74.0143064,40.7878788,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Westbury, NY</address>
+        <description>Westbury, NY</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-73.58762729999999,40.7556561,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Wichita, KS</address>
+        <description>Wichita, KS</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-97.33005299999999,37.68717609999999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Wilmington, CA</address>
+        <description>Wilmington, CA</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-118.2643567,33.7857948,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Winston-Salem NC</address>
+        <description>Winston-Salem NC</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-80.24421599999999,36.09985959999999,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanctuary city</name>
+        <address>Worthington, MN</address>
+        <description>Worthington, MN</description>
+        <styleUrl>#sanctuaryDefault</styleUrl>
+        <Point>
+          <coordinates>-95.59414359999998,43.6210985,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

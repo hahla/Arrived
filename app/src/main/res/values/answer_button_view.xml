@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="answer_button_view" parent="arrivedThemeV3">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:background">@drawable/page_answer_box</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:textColorLink">#FF0040FF</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textIsSelectable">true</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">@color/colorPrimaryDark</item>
+    </style>
+</resources>

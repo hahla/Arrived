@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="us.arrived.arrived.FAQ">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <Button
+                android:id="@+id/firstFAQQuestion"
+                style="@style/answer_question_view"
+                android:text="@string/faqQuestion1"
+                />
+            <TextView
+                android:id="@+id/firstFAQAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/firstFAQQuestion"
+                android:text="@string/faqAnswer1"
+                />
+
+            <Button
+                android:id="@+id/secondFAQQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/firstFAQAnswer"
+                android:text="@string/faqQuestion2"
+                />
+            <TextView
+                android:id="@+id/secondFAQAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/secondFAQQuestion"
+                android:text="@string/faqAnswer2"
+                />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/black"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/facebook_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/fb_logo"
+            android:drawableStart="@mipmap/fb_logo"
+            />
+
+        <!-- TO DO: Figure out how to display the copyright notice. Not a huge deal.
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/copyright_notice"
+                        android:text="@string/copyright"
+                        android:textSize="8sp"
+                        android:textColor="#FFFFFF"
+                        android:clickable="false"
+                        android:layout_centerInParent="true"
+                        android:layout_below="@+id/arrived_button"
+                        /> -->
+
+        <Button
+            android:id="@+id/arrived_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/arrived_footer_logo"
+            android:drawableStart="@mipmap/arrived_footer_logo"
+            />
+
+
+        <Button
+            android:id="@+id/twitter_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/twitter_logo"
+            android:drawableStart="@mipmap/twitter_logo"
+            />
+    </RelativeLayout>
+</RelativeLayout>

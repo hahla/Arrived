@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="us.arrived.arrived.driving">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <Button
+                android:id="@+id/firstDrivingQuestion"
+                style="@style/answer_question_view"
+                android:text="@string/drivingQuestion1"
+                />
+            <TextView
+                android:id="@+id/firstDrivingAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/firstDrivingQuestion"
+                android:text="@string/drivingAnswer1"
+                />
+
+            <Button
+                android:id="@+id/secondDrivingQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/firstDrivingAnswer"
+                android:text="@string/drivingQuestion2"
+                />
+            <TextView
+                android:id="@+id/secondDrivingAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/secondDrivingQuestion"
+                android:text="@string/drivingAnswer2"
+                />
+
+            <Button
+                android:id="@+id/thirdDrivingQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/secondDrivingAnswer"
+                android:text="@string/drivingQuestion3"
+                />
+            <TextView
+                android:id="@+id/thirdDrivingAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/thirdDrivingQuestion"
+                android:text="@string/drivingAnswer3"
+                />
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/footer"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        android:background="@color/black"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/facebook_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/fb_logo"
+            android:drawableLeft="@mipmap/fb_logo"
+            android:layout_alignParentLeft="true"
+            android:background="@color/black"
+            />
+
+        <!-- TO DO: Figure out how to display the copyright notice. Not a huge deal.
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/copyright_notice"
+                        android:text="@string/copyright"
+                        android:textSize="8sp"
+                        android:textColor="#FFFFFF"
+                        android:clickable="false"
+                        android:layout_centerInParent="true"
+                        android:layout_below="@+id/arrived_button"
+                        /> -->
+
+        <Button
+            android:id="@+id/arrived_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/arrived_footer_logo"
+            android:drawableLeft="@mipmap/arrived_footer_logo"
+            android:background="@color/black"
+            android:layout_centerInParent="true"
+            />
+
+
+        <Button
+            android:id="@+id/twitter_button"
+            android:layout_height="wrap_content"
+            android:layout_width="50dp"
+            android:drawableStart="@mipmap/twitter_logo"
+            android:drawableLeft="@mipmap/twitter_logo"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="us.arrived.arrived.CareerGuidance">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <Button
+                android:id="@+id/firstCareerGuidanceQuestion"
+                style="@style/answer_question_view"
+                android:text="@string/careerGuidanceQuestion1"
+                />
+            <TextView
+                android:id="@+id/firstCareerGuidanceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/firstCareerGuidanceQuestion"
+                android:text="@string/careerGuidanceAnswer1"
+                />
+
+            <Button
+                android:id="@+id/secondCareerGuidanceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/firstCareerGuidanceAnswer"
+                android:text="@string/careerGuidanceQuestion2"
+                />
+            <TextView
+                android:id="@+id/secondCareerGuidanceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/secondCareerGuidanceQuestion"
+                android:text="@string/careerGuidanceAnswer2"
+                />
+
+            <Button
+                android:id="@+id/thirdCareerGuidanceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/secondCareerGuidanceAnswer"
+                android:text="@string/careerGuidanceQuestion3"
+                />
+            <TextView
+                android:id="@+id/thirdCareerGuidanceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/thirdCareerGuidanceQuestion"
+                android:text="@string/careerGuidanceAnswer3"
+                />
+
+            <Button
+                android:id="@+id/fourthCareerGuidanceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/thirdCareerGuidanceAnswer"
+                android:text="@string/careerGuidanceQuestion4"
+                />
+            <TextView
+                android:id="@+id/fourthCareerGuidanceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fourthCareerGuidanceQuestion"
+                android:text="@string/careerGuidanceAnswer4"
+                />
+
+            <Button
+                android:id="@+id/fifthCareerGuidanceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/fourthCareerGuidanceAnswer"
+                android:text="@string/careerGuidanceQuestion5"
+                />
+            <TextView
+                android:id="@+id/fifthCareerGuidanceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fifthCareerGuidanceQuestion"
+                android:text="@string/careerGuidanceAnswer5"
+                />
+            <Button
+                android:id="@+id/sixthCareerGuidanceQuestion"
+                style="@style/answer_question_view"
+                android:layout_below="@id/fifthCareerGuidanceAnswer"
+                android:text="@string/careerGuidanceQuestion6"
+                />
+            <TextView
+                android:id="@+id/sixthCareerGuidanceAnswer"
+                style="@style/answer_button_view"
+                android:layout_below="@id/fifthCareerGuidanceQuestion"
+                android:text="@string/careerGuidanceAnswer6"
+                />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/black"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/facebook_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/fb_logo"
+            android:drawableStart="@mipmap/fb_logo"
+            />
+
+        <!-- TO DO: Figure out how to display the copyright notice. Not a huge deal.
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/copyright_notice"
+                        android:text="@string/copyright"
+                        android:textSize="8sp"
+                        android:textColor="#FFFFFF"
+                        android:clickable="false"
+                        android:layout_centerInParent="true"
+                        android:layout_below="@+id/arrived_button"
+                        /> -->
+
+        <Button
+            android:id="@+id/arrived_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/arrived_footer_logo"
+            android:drawableStart="@mipmap/arrived_footer_logo"
+            />
+
+
+        <Button
+            android:id="@+id/twitter_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/twitter_logo"
+            android:drawableStart="@mipmap/twitter_logo"
+            />
+    </RelativeLayout>
+</RelativeLayout>
